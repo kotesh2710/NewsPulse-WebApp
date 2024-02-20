@@ -1,0 +1,10 @@
+.card{
+    height: 380px;
+    width: 18rem;
+    margin-top:10px;
+}
+
+.card-text{
+    position: "absolute";
+    bottom: 0px;
+}
